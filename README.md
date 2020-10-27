@@ -1,12 +1,12 @@
 ![alt tag](images/repo-logo.jpg)
 
-# umedical - Wordpress Custom Theme #
+# United Medical Specialties - Wordpress Custom Theme #
 
 * Version: 1.0.0
 * Design: [Robert Ochoa](http://www.robertochoa.com.ve/?utm_source=github_link&utm_medium=link&utm_content=umedical)
 * Development: [Robert Ochoa](http://www.robertochoa.com.ve/?utm_source=github_link&utm_medium=link&utm_content=umedical)
 
-Tema diseñado por [Robert Ochoa](http://www.robertochoa.com.ve/?utm_source=github_link&utm_medium=link&utm_content=umedical) para umedical.
+Tema diseñado por [Robert Ochoa](http://www.robertochoa.com.ve/?utm_source=github_link&utm_medium=link&utm_content=umedical) para United Medical Specialties.
 Este tema custom fue construido en su totalidad, pasando por su etapa de Wireframing, rearmado, version anterior e implementación en hosting externo.
 
 ### Componentes Principales ###
